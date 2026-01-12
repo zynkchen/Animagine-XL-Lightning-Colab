@@ -1,5 +1,5 @@
 # Animagine-XL-Lightning-Colab 极致加速的二次元 AI 绘画工作流。
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/你的用户名/仓库名/blob/main/你的文件名.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zynk/Animagine-XL-Lightning-Colab/blob/main/cartoon.ipynb)
 Animagine XL + SDXL-Lightning Colab 工作流 🚀
 
 这是一个专为 Google Colab 优化的 Stable Diffusion XL (SDXL) 快速图像生成项目。基于 Animagine XL 3.1 基底模型与 SDXL-Lightning 加速技术，实现 4-8 步内生成高质量二次元图像。
